@@ -1,0 +1,49 @@
+Country.Name,Country.Code,location_id,location_name
+Afghanistan,AFG,160,Afghanistan
+Armenia,ARM,33,Armenia
+Azerbaijan,AZE,34,Azerbaijan
+Bahrain,BHR,140,Bahrain
+Bangladesh,BGD,161,Bangladesh
+Bhutan,BTN,162,Bhutan
+Brunei Darussalam,BRN,66,Brunei Darussalam
+Cambodia,KHM,10,Cambodia
+China,CHN,6,China
+Cyprus,CYP,77,Cyprus
+"Korea, Dem. People's Rep.",PRK,7,Democratic People's Republic of Korea
+Georgia,GEO,35,Georgia
+India,IND,163,India
+Indonesia,IDN,11,Indonesia
+"Iran, Islamic Rep.",IRN,142,Iran (Islamic Republic of)
+Iraq,IRQ,143,Iraq
+Israel,ISR,85,Israel
+Japan,JPN,67,Japan
+Jordan,JOR,144,Jordan
+Kazakhstan,KAZ,36,Kazakhstan
+Kuwait,KWT,145,Kuwait
+Kyrgyz Republic,KGZ,37,Kyrgyzstan
+Lao PDR,LAO,12,Lao People's Democratic Republic
+Lebanon,LBN,146,Lebanon
+Malaysia,MYS,13,Malaysia
+Maldives,MDV,14,Maldives
+Mongolia,MNG,38,Mongolia
+Myanmar,MMR,15,Myanmar
+Nepal,NPL,164,Nepal
+Oman,OMN,150,Oman
+Pakistan,PAK,165,Pakistan
+West Bank and Gaza,PSE,149,Palestine
+Philippines,PHL,16,Philippines
+Qatar,QAT,151,Qatar
+"Korea, Rep.",KOR,68,Republic of Korea
+Saudi Arabia,SAU,152,Saudi Arabia
+Singapore,SGP,69,Singapore
+Sri Lanka,LKA,17,Sri Lanka
+Syrian Arab Republic,SYR,153,Syrian Arab Republic
+Tajikistan,TJK,39,Tajikistan
+Thailand,THA,18,Thailand
+Timor-Leste,TLS,19,Timor-Leste
+Turkmenistan,TKM,40,Turkmenistan
+Türkiye,TUR,155,Türkiye
+United Arab Emirates,ARE,156,United Arab Emirates
+Uzbekistan,UZB,41,Uzbekistan
+Viet Nam,VNM,20,Viet Nam
+"Yemen, Rep.",YEM,157,Yemen

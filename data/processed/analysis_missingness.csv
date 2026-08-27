@@ -1,0 +1,49 @@
+location_id,location_name,country_code,rows,missing_hale_rows,missing_gdp_rows,missing_vlw_rows
+7,Democratic People's Republic of Korea,PRK,2040,102,2040,1632
+153,Syrian Arab Republic,SYR,2040,102,1620,1296
+160,Afghanistan,AFG,2040,102,600,480
+157,Yemen,YEM,2040,102,2040,480
+149,Palestine,PSE,2040,102,240,192
+143,Iraq,IRQ,2040,102,60,48
+33,Armenia,ARM,2040,102,0,0
+34,Azerbaijan,AZE,2040,102,0,0
+140,Bahrain,BHR,2040,102,0,0
+161,Bangladesh,BGD,2040,102,0,0
+162,Bhutan,BTN,2040,102,0,0
+66,Brunei Darussalam,BRN,2040,102,0,0
+10,Cambodia,KHM,2040,102,0,0
+6,China,CHN,2040,102,0,0
+77,Cyprus,CYP,2040,102,0,0
+35,Georgia,GEO,2040,102,0,0
+163,India,IND,2040,102,0,0
+11,Indonesia,IDN,2040,102,0,0
+142,Iran (Islamic Republic of),IRN,2040,102,0,0
+85,Israel,ISR,2040,102,0,0
+67,Japan,JPN,2040,102,0,0
+144,Jordan,JOR,2040,102,0,0
+36,Kazakhstan,KAZ,2040,102,0,0
+145,Kuwait,KWT,2040,102,0,0
+37,Kyrgyzstan,KGZ,2040,102,0,0
+12,Lao People's Democratic Republic,LAO,2040,102,0,0
+146,Lebanon,LBN,2040,102,0,0
+13,Malaysia,MYS,2040,102,0,0
+14,Maldives,MDV,2040,102,0,0
+38,Mongolia,MNG,2040,102,0,0
+15,Myanmar,MMR,2040,102,0,0
+164,Nepal,NPL,2040,102,0,0
+150,Oman,OMN,2040,102,0,0
+165,Pakistan,PAK,2040,102,0,0
+16,Philippines,PHL,2040,102,0,0
+151,Qatar,QAT,2040,102,0,0
+68,Republic of Korea,KOR,2040,102,0,0
+152,Saudi Arabia,SAU,2040,102,0,0
+69,Singapore,SGP,2040,102,0,0
+17,Sri Lanka,LKA,2040,102,0,0
+39,Tajikistan,TJK,2040,102,0,0
+18,Thailand,THA,2040,102,0,0
+19,Timor-Leste,TLS,2040,102,0,0
+40,Turkmenistan,TKM,2040,102,0,0
+155,Türkiye,TUR,2040,102,0,0
+156,United Arab Emirates,ARE,2040,102,0,0
+41,Uzbekistan,UZB,2040,102,0,0
+20,Viet Nam,VNM,2040,102,0,0

@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "Please cite the associated article and the underlying GBD 2023 and World Bank data sources when using this repository."
+title: "Welfare-based economic burden of gallbladder and biliary tract cancer in Asia, 1990–2023"
+type: software
+version: 1.0.0
+authors:
+  - family-names: Cui
+    given-names: Yibo
+  - family-names: He
+    given-names: Xiangkun
+  - family-names: Lu
+    given-names: Wei
+  - family-names: Yang
+    given-names: Guoping
+  - family-names: Wang
+    given-names: Gang
+    email: wang1123@ustc.edu.cn
+license: MIT
+repository-code: "https://github.com/REPLACE_WITH_OWNER/REPLACE_WITH_REPOSITORY"
+preferred-citation:
+  type: article
+  title: "Trends and Geographic Disparities in the Welfare-Based Economic Burden of Gallbladder and Biliary Tract Cancer in Asia, 1990–2023"
+  authors:
+    - family-names: Cui
+      given-names: Yibo
+    - family-names: He
+      given-names: Xiangkun
+    - family-names: Lu
+      given-names: Wei
+    - family-names: Yang
+      given-names: Guoping
+    - family-names: Wang
+      given-names: Gang
