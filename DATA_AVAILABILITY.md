@@ -35,4 +35,4 @@ World Bank attribution and licensing details are recorded in `LICENSES/DATA_LICE
 
 The study is based on secondary aggregate epidemiological and economic indicators. It did not generate nucleic-acid sequencing, proteomics, crystallography, or another community-standardized experimental data type. A data-type-specific accession number is therefore not applicable.
 
-After the GitHub repository is public, archive a numbered release in Zenodo or another long-term repository if the journal requests a persistent DOI. Replace the placeholders in `docs/RESOURCE_AVAILABILITY_TEXT.md` before resubmission.
+The versioned repository release used for the revised manuscript is archived at Zenodo: https://doi.org/10.5281/zenodo.22133469.

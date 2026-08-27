@@ -16,7 +16,8 @@ authors:
     given-names: Gang
     email: wang1123@ustc.edu.cn
 license: MIT
-repository-code: "https://github.com/REPLACE_WITH_OWNER/REPLACE_WITH_REPOSITORY"
+repository-code: "https://github.com/Z-C-Q/gallbladder-biliary-cancer-asia-vlw"
+doi: "10.5281/zenodo.22133469"
 preferred-citation:
   type: article
   title: "Trends and Geographic Disparities in the Welfare-Based Economic Burden of Gallbladder and Biliary Tract Cancer in Asia, 1990–2023"

@@ -27,6 +27,6 @@ All files in the prepared release are below 25 MB, so Git LFS is not required. U
 - Open the repository in a private/incognito browser window and verify that it is public.
 - Confirm that `README.md` renders correctly and that the large compressed CSV can be downloaded.
 - Create a numbered GitHub release, for example `v1.0.0`.
-- Connect the repository to Zenodo and archive the release if a persistent DOI is needed.
-- Add the final GitHub URL and archive DOI to `CITATION.cff`, the manuscript Resource availability section, and the Key resources table.
+- Confirm that the Zenodo record resolves at https://doi.org/10.5281/zenodo.22133469.
+- Confirm that the GitHub URL and archive DOI appear in the manuscript Resource availability section and Key resources table.
 - Re-run `Rscript R/run_analysis.R` from a fresh clone before final resubmission.

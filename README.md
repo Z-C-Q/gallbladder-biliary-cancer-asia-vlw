@@ -71,4 +71,4 @@ Requests for further information and resources should be directed to the lead co
 
 ## Citation
 
-If you use these materials, cite the associated article and the underlying GBD 2023 and World Bank data sources. Repository citation metadata are provided in `CITATION.cff`; update the article DOI and repository archive DOI after publication.
+If you use these materials, cite the associated article and the underlying GBD 2023 and World Bank data sources. The archived repository release is available at https://doi.org/10.5281/zenodo.22133469. Repository citation metadata are provided in `CITATION.cff`; add the article DOI after publication.
